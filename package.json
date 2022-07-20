@@ -1,9 +1,10 @@
 {
   "name": "apirestshirtstore",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "api fake",
+  "main": "server.js",
   "scripts": {
+    "start":"node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/DaniCaldas/ApirestShirtStore.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel Caldas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DaniCaldas/ApirestShirtStore/issues"
