@@ -1,5 +1,4 @@
-{
-"Plataformas": [
+[
         {
           "id": 1,
           "forma": "Vísa"
@@ -16,5 +15,4 @@
           "id": 4,
           "forma": "Pix"
         }
-    ]
-}
+]
