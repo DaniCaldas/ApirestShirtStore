@@ -1,0 +1,20 @@
+{
+"Plataformas": [
+        {
+          "id": 1,
+          "forma": "Vísa"
+        },
+        {
+          "id": 2,
+          "forma": "Master Card"
+        },
+        {
+          "id": 3,
+          "forma": "Mercado Pago"
+        },
+        {
+          "id": 4,
+          "forma": "Pix"
+        }
+    ]
+}
