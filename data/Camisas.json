@@ -1,18 +1,18 @@
 [
     {
-        "id":1,
+        "id":"Camisa do Liverpool",
         "nome":"Camisa do Liverpool",
         "imagem":"https://cf.shopee.com.br/file/be59be436fdee8a32e5c401eb668f431",
         "imagem_costas":"https://cf.shopee.com.br/file/3d5982a81206cb26c234e28a34103c0b"
     },
     {
-        "id":2,
+        "id":"Camisa do Real",
         "nome":"Camisa do Real",
         "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-real-madrid-edicao-especial-dragap-chines-22-23-branca-adidas-masculina-torcedor-vinijr-benzema-rudiger-courtois-alaba-rodrygo-modric-casemiro-kroos-valverde-mendy-champions-14-militao-ancelott6-cb4abbcd4e10f326aa16543969025618-640-0.jpg",
         "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-real-madrid-edicao-especial-dragap-chines-22-23-branca-adidas-masculina-torcedor-vinijr-benzema-rudiger-courtois-alaba-rodrygo-modric-casemiro-kroos-valverde-mendy-champions-14-militao-ancelott11-51b0829a9d6536903116543969023026-640-0.jpg"
     },
     {
-        "id":3,
+        "id":"Camisa do PSG",
         "nome":"Camisa do PSG",
         "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-psg-iv-2022-jordan-lancamento-paris-saint-germain-branca-neymar-10-messi-30-mbappe-7-sergio-ramos-marquinhos-league-1-nike-uniforme-alternativo-masculina-torcedor-donnarumma-navas-champions-lea5-92beffd9fbce1ce3cc16446180320647-640-0.jpg",
         "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-psg-iv-2022-jordan-lancamento-paris-saint-germain-branca-neymar-10-messi-30-mbappe-7-sergio-ramos-marquinhos-league-1-nike-uniforme-alternativo-masculina-torcedor-donnarumma-navas-champions-lea41-97be2a5b7947c5c72516446180322956-640-0.jpg"

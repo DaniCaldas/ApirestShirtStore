@@ -1,0 +1,20 @@
+[
+    {
+        "id":"Corta vento do Liverpool",
+        "nome":"Corta vento do Liverpool",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/shopee_5503890c44a3a78cac0ce7ac3349ba03_compress891-6bfd8babaa7662f71a16213079310875-640-0.jpg",
+        "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/shopee_716ff50409dcad0e8628a90d737bd88d_compress371-faceb0c8a0a8163dcf16213079311771-640-0.jpg"
+    },
+    {
+        "id":"Corta vento do PSG",
+        "nome":"Corta vento do PSG",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/shopee_f376b939c7fad6c58c05de01ea7ec6601-3756908ca1e9e5f74d16065780621020-640-0.jpg",
+        "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/shopee_44381304fcb4cf1fb81bfb0e1ce6b60f1-0c5de8ea3d58328a2e16065780620936-640-0.jpg"
+    },
+    {
+        "id":"Corta vento do Corinthians",
+        "nome":"Corta vento do Corinthians",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/fd48a907-00c7-4000-8627-08f892fe16611-b2c5ddfe43c5e465ff16065812616254-640-0.jpeg",
+        "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/436/693/products/0d20f97d-c321-4624-aaa2-6a2bce8161741-5fa5478bec828c391916065812620612-640-0.jpeg"
+    }
+]

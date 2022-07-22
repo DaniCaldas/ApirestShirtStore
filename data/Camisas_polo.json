@@ -1,0 +1,20 @@
+[
+    {
+        "id":"Camisa da Holanda",
+        "nome":"Camisa da Holanda",
+        "imagem":"https://cdn.awsli.com.br/1000x1000/1861/1861887/produto/98011410/3305022a85.jpg",
+        "imagem_costas":"https://cdn.awsli.com.br/1000x1000/1861/1861887/produto/98011410/2131f696d4.jpg"
+    },
+    {
+        "id":"Camisa do Brasil",
+        "nome":"Camisa do Brasil",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/841/791/products/e6e31f0b-4fc3feb2fa27aea97716517075997256-640-0.jpg",
+        "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/841/791/products/afc98382-344d35f179ac65d44a16517076051898-640-0.jpg"
+    },
+    {
+        "id":"Camisa do Liverpool Polo",
+        "nome":"Camisa do Liverpool Polo",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/401/448/products/ei_1621085118910-removebg-preview-11-630a56b3da18ea728e16210856145563-640-0.png",
+        "imagem_costas":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/401/448/products/de00e6df1-ca75b305849c0f735316210856163168-640-0.jpg"
+    }
+]
