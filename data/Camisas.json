@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "nome":"Camisa do Liverpool",
+        "imagem":"https://static.netshoes.com.br/produtos/camisa-liverpool-home-2021-sn-torcedor-nike-masculina/56/HZM-3800-056/HZM-3800-056_zoom1.jpg"
+    },
+    {
+        "id":2,
+        "nome":"Camisa do Real",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-real-madrid-edicao-especial-dragap-chines-22-23-branca-adidas-masculina-torcedor-vinijr-benzema-rudiger-courtois-alaba-rodrygo-modric-casemiro-kroos-valverde-mendy-champions-14-militao-ancelott6-cb4abbcd4e10f326aa16543969025618-640-0.jpg"
+    },
+    {
+        "id":3,
+        "nome":"Camisa do PSG",
+        "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/499/674/products/camisa-psg-iv-2022-jordan-lancamento-paris-saint-germain-branca-neymar-10-messi-30-mbappe-7-sergio-ramos-marquinhos-league-1-nike-uniforme-alternativo-masculina-torcedor-donnarumma-navas-champions-lea5-92beffd9fbce1ce3cc16446180320647-640-0.jpg"
+    }
+]
