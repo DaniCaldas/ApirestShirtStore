@@ -1,7 +1,7 @@
 {
   "name": "apirestshirtstore",
   "version": "1.0.0",
-  "description": "api fake",
+  "description": "api",
   "main": "server.js",
   "engines": {
     "node": "14.x"
