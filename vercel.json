@@ -1,13 +1,14 @@
 {
-    "name": "apirestshirtstore",
     "version":2,
     "public":true,
-    "build":{
-        "src":"server.js",
+    "builds":{
+        "src":"./server.js",
         "use":"@vercel/node"
     },
-    "routes":{
-        "src":"/{.*}",
-        "dest":"/"
-    }
+    "routes":[
+        {
+            "src":"/(.*)",
+            "dest":"/"
+        }
+    ]
 }
